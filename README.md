@@ -89,6 +89,4 @@ Saya saat ini sedang mencari **Kesempatan Magang sebagai Unity Programmer**. Say
 
 *   📧 **Email:**
     
-    $$
     23081010115@student.upnjatim.ac.id
-    $$
