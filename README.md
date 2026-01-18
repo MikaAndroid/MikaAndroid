@@ -8,6 +8,8 @@ Saya adalah mahasiswa Informatika (Semester 6) dengan fondasi kuat dalam **Pemro
 
 > **Game Puzzle Platformer 2D yang dibangun dengan Godot Engine.** Fokus: _Mekanik Gameplay, Interaksi Fisika, State Machines._
 
+![](./ox-gameplay.gif)
+
 ### ⚙️ Sorotan Teknis
 
 Dalam proyek ini, saya berfokus pada implementasi logika _gameplay_ inti menggunakan **GDScript** (yang memiliki kemiripan logika dengan Python/C#):
